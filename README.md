@@ -23,16 +23,19 @@ A simple Android To-Do List application developed using Java and Android Studio.
 ![UI](screenshots/UI.jpeg)
 
 ### Add Task
-![Add Task](screenshots/ADD_TASK.jpeg)
-
-### Edit Task
-![Edit Task](screenshots/EDIT_TASK.jpeg)
+![Add Task](screenshots/Add%20Task.jpeg)
 
 ### Delete Task
-![Delete Task](screenshots/DELETE_TASK.jpeg)
+![Delete Task](screenshots/Delete%20Task.jpeg)
+
+### Edit Task - Example 1
+![Edit Task 1](screenshots/Edit%20Task%201.jpeg)
+
+### Edit Task - Example 2
+![Edit Task 2](screenshots/Edit%20Task%202.jpeg)
 
 ### Task List
-![Task List](screenshots/TASK_LIST.jpeg)
+![Task List](screenshots/Task%20List.jpeg)
 
 ## 🎯 Learning Outcomes
 
